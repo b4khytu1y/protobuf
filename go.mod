@@ -1,5 +1,4 @@
-module github.com/GolangLessons/protos
-
+module github.com/b4khytu1y/protobuf
 go 1.21
 
 require (
