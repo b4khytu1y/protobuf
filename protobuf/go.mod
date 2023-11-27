@@ -1,4 +1,4 @@
-module github.com/b4khytu1y/protobuf/protobuf
+module github.com/b4khytu1y/protobuf
 go 1.21
 
 require (
