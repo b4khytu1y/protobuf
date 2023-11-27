@@ -1,6 +1,6 @@
 module github.com/b4khytu1y/protobuf
 
-go 1.21.1
+go 1.21
 
 require (
 	google.golang.org/grpc v1.59.0
